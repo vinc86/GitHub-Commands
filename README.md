@@ -17,7 +17,7 @@ Git commands for beginners:
 **git commit -m "comment_for_your_commit"** = make all the commit that you want
 
 - Push the changed files in yout Gir repo:
-**git push -b** = follow the required steps that the Terminal asks you
+**git push -f** = follow the required steps that the Terminal asks you
 Now you can make a new pull request on you repo, and merge it to the master.
 
 After this step you have to change to the branch master whit:
