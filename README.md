@@ -35,7 +35,7 @@ Other changes:
 
 After you switched to a brunch and want to replace some files before the changes do:
 
-**git pull** to download the previous version without any changes.
+**git pull** to download the previous version without any changes or also to download the uptaded master brunch.
 
 
 
