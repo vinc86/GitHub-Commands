@@ -25,7 +25,7 @@ Git commands for beginners:
 
 Now you can make a new pull request on you repo, and merge it to the master.
 
-After this step you have to change to the branch master whit:
+After this step you have to change to the branch master with:
 
 **git checkout master**.
 
