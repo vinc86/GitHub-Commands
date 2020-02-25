@@ -3,6 +3,8 @@
 Git commands for beginners:
 
  - Clone or initialize a new repository.
+ 
+ **git init** = initialize a new repository. Write rm -rf .git to delete the entire git repository and undo the changes made by the init command.
 
 **git branch** = check the current branch, if its master and you want to make some changes it's better to make a new branch.
 **git checkout -b new_branch_name** = now this is your new branch and you can work on it safely. 
