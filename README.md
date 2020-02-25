@@ -38,4 +38,4 @@ After you switched to a brunch and want to replace some files before the changes
 **git pull** to download the previous version without any changes or also to download the uptaded master brunch.
 
 
-
+**git remote -v** check if you are the owner of that repository
