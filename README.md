@@ -59,3 +59,4 @@ Save user configuration for a repository by reducing the number of times you mus
 
 [credentials are used automatically]
 
+-----------------
