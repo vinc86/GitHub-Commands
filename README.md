@@ -40,22 +40,22 @@ After you switched to a brunch and want to replace some files before the changes
 
 **git remote -v** check if you are the owner of that repository
 
-Save user configuration for a repository:
 
-       reduce the number of times you must
-       
-       type your username or password. For example:
+Save user configuration for a repository by reducing the number of times you must type your username and password:
 
-           $ git config credential.helper store
-           
-           $ git push http://example.com/repo.git
-           
-           Username: <type your username>
-           
-           Password: <type your password>
+**git config --global credential.helper store --file ~/.my-credentials**
 
-           [several days later]
-           
-           $ git push http://example.com/repo.git
-           
-           [your credentials are used automatically]
+**git push [repository link]**
+
+**username: [type your username]**
+
+**password: [type your password]**
+
+
+[several days later]
+
+
+**git push [repository link]**
+
+[credentials are used automatically]
+
