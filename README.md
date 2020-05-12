@@ -1,4 +1,4 @@
-# gitHubTest
+# Common Bash Commands for Git
 
 Git commands for beginners:
 
